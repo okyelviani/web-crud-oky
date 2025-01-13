@@ -26,13 +26,9 @@ Dashboard sederhana berbasis **PHP Native** dengan fitur CRUD untuk mengelola da
 Berikut adalah beberapa tampilan dari aplikasi:
 
 <p align="center">
-  #menu login
   <img src="data/demo/login-page.png" width="800" alt="Login Page">
-  #Dasboard
   <img src="data/demo/dashboard.png" width="800" alt="Dashboard">
-  #add data
   <img src="data/demo/add-data.png" width="800" alt="Add Data Page">
-  #View data page
   <img src="data/demo/view-data.png" width="800" alt="View Data Page">
 </p>
 
